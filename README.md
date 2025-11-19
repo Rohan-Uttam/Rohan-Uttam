@@ -1,51 +1,123 @@
+<!-- ============================= -->
+<!-- ✨ MINIMAL PREMIUM DIGITAL IDENTITY INTRO -->
+<!-- ============================= -->
+
 <div align="center">
-  <h1>💫 About Me:</h1>
-  🔭 I’m currently working on<br>👯 I’m looking to collaborate on<br>🤝 I’m looking for help with<br>🌱 I’m currently learning<br>💬 Ask me about<br>⚡ Fun fact
 
-  ## 🌐 Socials:
-  [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/rohanuttam0408)
-  [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/rohan-uttam-a00b32262/)
-  [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/rohanuttam0408)
+<img src="https://readme-typing-svg.herokuapp.com?font=Chakra+Petch&size=48&duration=2600&pause=1400&color=00E3FF&center=true&vCenter=true&width=1000&lines=ROHAN+UTTAM;Digital+Creator+%7C+Full-Stack+Engineer;Designing+Tomorrow's+Tech" />
 
-  # 💻 Tech Stack:
-  ![JWT](https://img.shields.io/badge/JWT-black?style=flat-square&logo=JSON%20web%20tokens)
-  ![C](https://img.shields.io/badge/c-%2300599C.svg?style=flat-square&logo=c&logoColor=white)
-  ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=flat-square&logo=c%2B%2B&logoColor=white)
-  ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=flat-square&logo=css3&logoColor=white)
-  ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=flat-square&logo=javascript&logoColor=%23F7DF1E)
-  ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=flat-square&logo=openjdk&logoColor=white)
-  ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=flat-square&logo=html5&logoColor=white)
-  ![Python](https://img.shields.io/badge/python-3670A0?style=flat-square&logo=python&logoColor=ffdd54)
-  ![GithubPages](https://img.shields.io/badge/github%20pages-121013?style=flat-square&logo=github&logoColor=white)
-  ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=flat-square&logo=amazon-aws&logoColor=white)
-  ![Django](https://img.shields.io/badge/django-%23092E20.svg?style=flat-square&logo=django&logoColor=white)
-  ![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=flat-square&logo=fastapi)
-  ![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=flat-square&logo=express&logoColor=%2361DAFB)
-  ![React](https://img.shields.io/badge/react-%2320232a.svg?style=flat-square&logo=react&logoColor=%2361DAFB)
-  ![React Native](https://img.shields.io/badge/react_native-%2320232a.svg?style=flat-square&logo=react&logoColor=%2361DAFB)
-  ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=flat-square&logo=node.js&logoColor=white)
-  ![Nodemon](https://img.shields.io/badge/NODEMON-%23323330.svg?style=flat-square&logo=nodemon&logoColor=%BBDEAD)
-  ![Next JS](https://img.shields.io/badge/Next-black?style=flat-square&logo=next.js&logoColor=white)
-  ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=flat-square&logo=pandas&logoColor=white)
-  ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=flat-square&logo=numpy&logoColor=white)
-  ![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=flat-square&logo=Matplotlib&logoColor=black)
-  ![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=flat-square&logo=PyTorch&logoColor=white)
-  ![Portfolio](https://img.shields.io/badge/Portfolio-%23000000.svg?style=flat-square&logo=firefox&logoColor=#FF7139)
-  ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=flat-square&logo=postman&logoColor=white)
+<br/>
 
-  # 📊 GitHub Stats:
-  ![](https://github-readme-stats.vercel.app/api?username=Rohan-Uttam&theme=neon&hide_border=false&include_all_commits=true&count_private=true)<br/>
-  ![](https://github-readme-streak-stats.herokuapp.com/?user=Rohan-Uttam&theme=neon&hide_border=false)<br/>
-  ![](https://github-readme-stats.vercel.app/api/top-langs/?username=Rohan-Uttam&theme=neon&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
+<img src="https://raw.githubusercontent.com/rohanuttam0408/assets/main/neon-divider.gif" width="100%" />
 
-  ### ✍️ Random Dev Quote
-  ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
+<br/>
 
-  ### 😂 Random Dev Meme
-  <img src='https://memer-new.vercel.app/' style="height: 400px;"/>
+<img src="https://readme-typing-svg.herokuapp.com?font=Share+Tech+Mono&size=24&duration=2600&pause=1200&color=00F3FF&center=true&vCenter=true&width=900&lines=Clean+Code.;Scalable+Architecture.;Next-Gen+Interfaces.;Welcome+To+My+Digital+Space." />
 
-  ---
-  [![](https://visitcount.itsvg.in/api?id=Rohan-Uttam&icon=0&color=0)](https://visitcount.itsvg.in)
+</div>
 
-  <img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake.svg" alt="Snake animation" />
+<br/>
+
+# <div align="center">💫 About Me</div>
+
+<div align="center">
+
+🌌 Working on: **MERN, AI Tools, Realtime Web Apps**  
+🤝 Open to: **Collaboration on innovative products**  
+⚙️ Passionate about: **API Engineering, UI/UX, ML Algorithms**  
+📚 Learning: **Deep Learning, Cloud Architecture, System Design**  
+💬 Ask me about: **React, Node.js, MongoDB, ML, DSA**  
+⚡ Fun fact: **Debugging is my meditation.**
+
+</div>
+
+---
+
+# <div align="center">🌐 Social Links</div>
+
+<div align="center">
+
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=Instagram&logoColor=white)](https://instagram.com/rohanuttam0408)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=LinkedIn&logoColor=white)](https://www.linkedin.com/in/rohan-uttam-a00b32262/)
+[![Twitter](https://img.shields.io/badge/Twitter-000?style=for-the-badge&logo=X&logoColor=white)](https://x.com/rohanuttam0408)
+
+</div>
+
+---
+
+# <div align="center">💻 Tech Stack</div>
+
+<div align="center">
+
+### 🚀 Languages  
+![C](https://img.shields.io/badge/C-283593?style=for-the-badge&logo=c&logoColor=white)
+![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript)
+![Python](https://img.shields.io/badge/Python-4584b6?style=for-the-badge&logo=python)
+
+### 🎨 Frontend  
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs)
+![TailwindCSS](https://img.shields.io/badge/TailwindCSS-0EA5E9?style=for-the-badge&logo=tailwind-css)
+
+### ⚙️ Backend  
+![NodeJS](https://img.shields.io/badge/Node.js-3C873A?style=for-the-badge&logo=node.js)
+![Express](https://img.shields.io/badge/Express-303030?style=for-the-badge&logo=express)
+
+### 🤖 Machine Learning  
+![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy)
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas)
+![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch)
+
+### 🛠 Tools  
+![Postman](https://img.shields.io/badge/Postman-F76935?style=for-the-badge&logo=postman)
+![GitHub](https://img.shields.io/badge/GitHub-000?style=for-the-badge&logo=github)
+
+</div>
+
+---
+
+# <div align="center">📊 GitHub Analytics</div>
+
+<div align="center">
+
+![](https://github-readme-stats.vercel.app/api?username=Rohan-Uttam&theme=midnight-purple&show_icons=true&count_private=true)  
+![](https://github-readme-streak-stats.herokuapp.com/?user=Rohan-Uttam&theme=midnight-purple)  
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=Rohan-Uttam&theme=midnight-purple&layout=compact)
+
+</div>
+
+---
+
+# <div align="center">✍️ Dev Quote</div>
+
+<div align="center">
+
+<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark" />
+
+</div>
+
+---
+# <div align="center">⚡ Coder Vibes</div>
+
+<div align="center">
+
+<img src="https://media.giphy.com/media/fwbzI2kV3Qrlpkh59e/giphy.gif" height="260" />
+
+</div>
+
+---
+
+# <div align="center">🐍 Contribution Snake</div>
+
+<div align="center">
+<img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake.svg" />
+</div>
+
+---
+
+# <div align="center">👀 Profile Views</div>
+
+<div align="center">
+<img src="https://visitcount.itsvg.in/api?id=Rohan-Uttam&label=Profile%20Views&color=12&icon=4&pretty=true" />
 </div>
